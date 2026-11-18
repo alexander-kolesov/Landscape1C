@@ -1,3 +1,5 @@
+你好！
+
 # Ландшафт технологий 1С
 
 [![Сайт](https://img.shields.io/website?url=https%3A%2F%2Flandscape1c.ru&label=landscape1c.ru&up_message=%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&down_message=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD&style=for-the-badge)](https://landscape1c.ru)
